@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Shaurya+Jangid;Technical+Data+Analyst;Python+%7C+SQL+%7C+Power+BI" alt="Shaurya Jangid - Technical Data Analyst" />
 
-**Python ETL · SQL Server · Data Validation · Power BI reporting**
+**Python ETL · Relational SQL · Data Validation · Power BI Reporting**
 
 I build the pipelines and schemas that turn messy raw data into numbers people can trust.
 
@@ -17,11 +17,11 @@ I build the pipelines and schemas that turn messy raw data into numbers people c
 
 ## About
 
-I'm a Technical Data Analyst & Automation Engineer at **Asha Mtech**, where I work on Python ETL pipelines, SQL Server ingestion, and validation scripts for Meta and Google Ads performance data that feeds Power BI dashboards.
+I'm a Technical Data Analyst & Automation Engineer at **Asha Mtech**, where I work on Python ETL pipelines, relational data processing, and validation scripts for Meta and Google Ads performance data that feeds Power BI dashboards.
 
-Before that, at **Apraava**, I cut a week-long manual reconciliation of 2.8M records across four CSV datasets down to under five minutes with Python and SQL.
+Before that, at **Apraava**, I optimized a manual reconciliation process of 2.8M records across four CSV datasets down to under five minutes using Python and SQL.
 
-I'm a final-year B.Tech CSE student (graduating 2027), based in Delhi NCR. I like problems where the data is inconsistent, the process is manual, and the fix is a well-designed schema or a reliable script. I'm aiming for analytics engineering and automated reporting roles starting early 2027.
+I'm a final-year B.Tech CSE student (graduating 2027), based in Delhi NCR. I focus on solving challenges where data is inconsistent, processes are manual, and the fix requires structured query logic or reliable automation scripts. I'm targeting analytics engineering and automated reporting roles starting early 2027.
 
 ---
 
@@ -36,14 +36,13 @@ I'm a final-year B.Tech CSE student (graduating 2027), based in Delhi NCR. I lik
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![XlsxWriter](https://img.shields.io/badge/XlsxWriter-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**SQL & Databases**
+**SQL & Query Logic**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![ANSI SQL](https://img.shields.io/badge/ANSI_SQL-4169E1?style=flat-square&logo=sqlite&logoColor=white)
 ![CTEs](https://img.shields.io/badge/CTEs-30363D?style=flat-square)
 ![Window Functions](https://img.shields.io/badge/Window_Functions-30363D?style=flat-square)
-![Dimensional Modeling](https://img.shields.io/badge/Dimensional_Modeling-30363D?style=flat-square)
-![Schema Design](https://img.shields.io/badge/Schema_Design-30363D?style=flat-square)
+![Complex JOINs](https://img.shields.io/badge/Complex_JOINs-30363D?style=flat-square)
+![Aggregation Logic](https://img.shields.io/badge/Aggregation_Logic-30363D?style=flat-square)
 
 **BI & Reporting**
 
@@ -83,15 +82,15 @@ I'm a final-year B.Tech CSE student (graduating 2027), based in Delhi NCR. I lik
 
 ### RollSync: Relational Data Modeling & Access Control System
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-30363D?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white)
+![Relational Logic](https://img.shields.io/badge/Relational_Logic-30363D?style=flat-square)
 
 | | |
 |---|---|
 | **Problem** | Multi-role data needs strict isolation, and manual reconciliation of metrics is error-prone. |
-| **What I built** | A 3NF Microsoft SQL Server schema with 6 relational tables, using UUIDs and strict foreign keys for entity mapping. |
-| **How it works** | Row Level Security policies enforce role-based access across three user hierarchies. Triggers and stored procedures aggregate metrics on INSERT/UPDATE events. Multi-column UNIQUE constraints prevent duplicate ingestion during concurrent updates. |
-| **Outcome** | Removed manual data reconciliation through real-time metric aggregation. |
+| **What I built** | A 3NF relational schema with 6 tables, utilizing surrogate keys and foreign keys for entity mapping. |
+| **How it works** | Enforced role-based access control rules across three user hierarchies. Trigger functions and stored procedures aggregate metrics on data write events. Multi-column unique constraints maintain data integrity during concurrent writes. |
+| **Outcome** | Automated manual data reconciliation through real-time metric aggregation. |
 
 [**View repository →**](https://github.com/shauryakumarjangid/attendance-analytics-architecture)
 
@@ -99,10 +98,10 @@ I'm a final-year B.Tech CSE student (graduating 2027), based in Delhi NCR. I lik
 
 ## Professional Experience in Practice
 
-| Where | What I work on |
+| Where | Key Deliverables & Engineering Focus |
 |---|---|
-| **[Asha Mtech](https://drive.google.com/file/d/1h52bKO5TB9F2fyPS5xHRkqav9_CXgGwl/view?usp=sharing)** (Sep 2026 – present)<br>Technical Data Analyst & Automation Engineer | Python ETL (pandas, Polars) for batch JSON/CSV into SQL Server. Tracking schemas for Meta and Google Ads metrics feeding Power BI. Validation scripts that catch malformed data. Benchmarking GenAI and workflow automation tools. |
-| **[Apraava](https://drive.google.com/file/d/19_KQoKDx9dVg1yMe6fG-mNTiwYm3RYYS/view?usp=sharing)** (Jun – Aug 2026)<br>AMI Data Engineering Intern | 2.8M records per run reconciled in under 5 minutes (previously about a week). SQL with window functions, CTEs, and multi-table JOINs on MDMS data. Excel validation reports automated with OpenPyXL and XlsxWriter. Power BI dashboards for SLA and task tracking. |
+| **[Asha Mtech](https://drive.google.com/file/d/1h52bKO5TB9F2fyPS5xHRkqav9_CXgGwl/view?usp=sharing)** (Sep 2026 – present)<br>Technical Data Analyst & Automation Engineer | Automated Python ETL (pandas, Polars) for batch JSON/CSV parsing. Structured reporting metrics for Meta and Google Ads performance feeding Power BI. Programmed data validation scripts to flag malformed records. Benchmarked GenAI and workflow automation tooling. |
+| **[Apraava](https://drive.google.com/file/d/19_KQoKDx9dVg1yMe6fG-mNTiwYm3RYYS/view?usp=sharing)** (Jun – Aug 2026)<br>AMI Data Engineering Intern | Optimized multi-dataset reconciliation across 2.8M records, executing SQL transformation logic via CTEs, window functions, and multi-table JOINs. Automated Excel validation reporting via OpenPyXL and XlsxWriter. Built SLA and operational tracking dashboards in Power BI. |
 
 ---
 
@@ -111,7 +110,7 @@ I'm a final-year B.Tech CSE student (graduating 2027), based in Delhi NCR. I lik
 - Building out orchestration and warehouse skills: **Apache Airflow**, **Snowflake**, **Databricks**
 - **REST API ingestion** to extend file-based ETL into API-driven pipelines
 - Production-style reporting automation at Asha Mtech
-- Preparing for analytics engineering roles from early 2027
+- Preparing for analytics engineering roles starting early 2027
 
 ---
 
@@ -119,7 +118,7 @@ I'm a final-year B.Tech CSE student (graduating 2027), based in Delhi NCR. I lik
 
 - 1st Place, BMIET Internal SIH (Sep 2025)
 - Certifications: Python for Data Science (NPTEL, 2026), AWS Cloud Operations (2025), AWS Generative AI Foundations (2025)
-- Practising problem-solving on [HackerRank](https://www.hackerrank.com/profile/shauryakrjangid)
+- Practising complex query logic on [HackerRank](https://www.hackerrank.com/profile/shauryakrjangid)
 
 ---
 
@@ -133,6 +132,6 @@ I'm a final-year B.Tech CSE student (graduating 2027), based in Delhi NCR. I lik
 
 <br /><br />
 
-<sub>Delhi NCR, India · Open to analytics engineering and data roles from early 2027</sub>
+<sub>Delhi NCR, India · Open to analytics engineering and data roles starting early 2027</sub>
 
 </div>
