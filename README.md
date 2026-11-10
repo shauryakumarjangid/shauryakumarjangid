@@ -101,7 +101,7 @@ I'm a final-year B.Tech CSE student (graduating 2027), based in Delhi NCR. I lik
 
 | Where | What I work on |
 |---|---|
-| **[Asha Mtech](https://drive.google.com/file/d/1RTXsDb_UK_cDnb6b2XKn45IKBuzWVBjF/view?usp=sharing)** (Sep 2026 – present)<br>Technical Data Analyst & Automation Engineer | Python ETL (pandas, Polars) for batch JSON/CSV into SQL Server. Tracking schemas for Meta and Google Ads metrics feeding Power BI. Validation scripts that catch malformed data. Benchmarking GenAI and workflow automation tools. |
+| **[Asha Mtech](https://drive.google.com/file/d/1h52bKO5TB9F2fyPS5xHRkqav9_CXgGwl/view?usp=sharing)** (Sep 2026 – present)<br>Technical Data Analyst & Automation Engineer | Python ETL (pandas, Polars) for batch JSON/CSV into SQL Server. Tracking schemas for Meta and Google Ads metrics feeding Power BI. Validation scripts that catch malformed data. Benchmarking GenAI and workflow automation tools. |
 | **[Apraava](https://drive.google.com/file/d/19_KQoKDx9dVg1yMe6fG-mNTiwYm3RYYS/view?usp=sharing)** (Jun – Aug 2026)<br>AMI Data Engineering Intern | 2.8M records per run reconciled in under 5 minutes (previously about a week). SQL with window functions, CTEs, and multi-table JOINs on MDMS data. Excel validation reports automated with OpenPyXL and XlsxWriter. Power BI dashboards for SLA and task tracking. |
 
 ---
