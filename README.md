@@ -8,7 +8,7 @@ I build the pipelines and schemas that turn messy raw data into numbers people c
 
 <a href="https://www.linkedin.com/in/shauryakumarjangid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:shauryakumarjangid@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://leetcode.com/u/shauryakumarjangid"><img src="https://img.shields.io/badge/LeetCode-30363D?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+<a href="https://shauryajangid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" /></a>
 <a href="https://www.hackerrank.com/profile/shauryakrjangid"><img src="https://img.shields.io/badge/HackerRank-30363D?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank" /></a>
 
 </div>
@@ -106,27 +106,6 @@ I'm a final-year B.Tech CSE student (graduating 2027), based in Delhi NCR. I lik
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/shauryakumarjangid">
-    <img src="https://github-readme-stats.vercel.app/api?username=shauryakumarjangid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats for shauryakumarjangid" height="165" />
-  </a>
-  <a href="https://github.com/shauryakumarjangid">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakumarjangid&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="165" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shauryakumarjangid&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shauryakumarjangid&theme=tokyo-night&hide_border=true" alt="GitHub contribution graph" width="100%" />
-</p>
-
----
-
 ## Current Focus
 
 - Building out orchestration and warehouse skills: **Apache Airflow**, **Snowflake**, **Databricks**
@@ -140,7 +119,7 @@ I'm a final-year B.Tech CSE student (graduating 2027), based in Delhi NCR. I lik
 
 - 1st Place, BMIET Internal SIH (Sep 2025)
 - Certifications: Python for Data Science (NPTEL, 2026), AWS Cloud Operations (2025), AWS Generative AI Foundations (2025)
-- Practising problem-solving on [LeetCode](https://leetcode.com/u/shauryakumarjangid) and [HackerRank](https://www.hackerrank.com/profile/shauryakrjangid)
+- Practising problem-solving on [HackerRank](https://www.hackerrank.com/profile/shauryakrjangid)
 
 ---
 
