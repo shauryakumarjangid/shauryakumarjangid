@@ -108,16 +108,22 @@ I'm a final-year B.Tech CSE student (graduating 2027), based in Delhi NCR. I lik
 
 ## GitHub Activity
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/shauryakumarjangid">
+    <img src="https://github-readme-stats.vercel.app/api?username=shauryakumarjangid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats for shauryakumarjangid" height="165" />
+  </a>
+  <a href="https://github.com/shauryakumarjangid">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakumarjangid&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="165" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shauryakumarjangid&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats for shauryakumarjangid" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryakumarjangid&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="165" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shauryakumarjangid&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=shauryakumarjangid&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shauryakumarjangid&theme=tokyo-night&hide_border=true" alt="GitHub contribution graph" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shauryakumarjangid&theme=tokyo-night&hide_border=true" alt="GitHub contribution graph" width="100%" />
+</p>
 
 ---
 
